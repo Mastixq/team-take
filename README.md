@@ -1,3 +1,4 @@
+```
 DUO HORDE 
 1: :raiderio: 3124  trade all
 :DPS: : Warlock ⚔️ 638 iLvl :keystone: SV +13
@@ -9,3 +10,4 @@ DUO HORDE
 :tank: DH ⚔️ 632 iLvl :keystone: COT +11
 :Healer: Priest  ⚔️ 637 iLvl :keystone: Arak +10
 :DPS: Hunter ⚔️ 635 iLvl :keystone: DB +12
+```
