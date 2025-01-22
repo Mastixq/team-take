@@ -11,5 +11,5 @@ Holi: :raiderio: 3179  trade all
 :tank: Druid ⚔️ 638 iLvl :keystone: SV +10
 :tank: DH ⚔️ 635 iLvl :keystone: ARAK +11
 :Healer: Priest  ⚔️ 637 iLvl :keystone: SB +10
-PS: Hunter ⚔️ 635 iLvl :keystone: NW +10
+:DPS: Hunter ⚔️ 635 iLvl :keystone: NW +10
 ```
